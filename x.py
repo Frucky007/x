@@ -34,8 +34,8 @@ SESSION_REFRESH_SLEEP = 2
 # ═══════════════════════════════════════════════════════════════
 # ⚠️ ဒီနေရာမှာ သင့် Bot Token နဲ့ Chat ID ကို ဖြည့်ပါ
 # ═══════════════════════════════════════════════════════════════
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-TELEGRAM_CHAT_ID = "YOUR_CHAT_ID_HERE"
+TELEGRAM_BOT_TOKEN = "9158466263:AAH8tRkIaPaGC7fO4KKI87M0vv20kpitQ3A"
+TELEGRAM_CHAT_ID = "8547556856"
 
 console = Console()
 session = requests.Session()
